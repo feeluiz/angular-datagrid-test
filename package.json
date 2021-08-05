@@ -19,6 +19,10 @@
     "@angular/platform-browser-dynamic": "~11.1.0",
     "@angular/router": "~11.1.0",
     "@revolist/angular-datagrid": "^3.0.1",
+    "@revolist/revogrid-column-date": "^1.1.0",
+    "@types/numeral": "^2.0.1",
+    "moment": "^2.29.1",
+    "numeral": "^2.0.6",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",
     "zone.js": "~0.11.4"
